@@ -2,7 +2,23 @@
 
 ## Description
 
+This coding quiz 
+
+## Installation
+
+N/A
+
+## Usage
+
+Start
 
 ## Credits
 
-Brennan Mitchell: 45min Zoom Session
+### CSS Reset from: https://meyerweb.com/eric/tools/css/reset/
+
+## License
+
+N/A
+
+## Tests
+
