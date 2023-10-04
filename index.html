@@ -6,7 +6,6 @@
     <title>Coding Quiz</title>
     <link rel="stylesheet" href="./Assets/css/reset.css">
     <link rel="stylesheet" href="./Assets/css/style.css">
-    <script defer src="./Assets/js/script.js"></script>
 </head>
 <body>
     <h1>Welcome to the Coding Quiz! <br> Hit the START button to begin.</h1>
@@ -14,16 +13,15 @@
         <div>Time remaining:</div>
         <div id="timer-display"></div>
     </section>    
-    <section class="panel">
+<main>
+    <section class="main">
         <div class="question" id="ques"></div>
-        <button onclick="checkAns()" id="btn">SUBMIT</button>
-        <button onclick="checkAns()" id="btn">SUBMIT</button>
-        <button onclick="checkAns()" id="btn">SUBMIT</button>
-        <div class="options" id="opt"></div>
-        <button onclick="checkAns()" id="btn">SUBMIT</button>
-        <div id="score"></div>
+        <div id="answers"></div>
     </section>
-    <button id="startButton">START</button>
-    <script src="script.js"></script>
+    <section class="start">
+        <button id="startButton">START</button>
+    </section>
+</main>
+    <script src="./Assets/js/script.js"></script>
 </body>
 </html>
