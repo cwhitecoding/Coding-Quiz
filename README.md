@@ -10,6 +10,9 @@ N/A
 
 ## Usage
 
+### Deployed Site
+https://cwhitecoding.github.io/Coding-Quiz/
+
 Click start and begin answering questions by clicking buttons. The wrong answer will subtract 5 seconds from the timer. 
 The main page welcomes you and presents the start button:
 ![Begin quiz screen](./Assets/images/start-screen.png)
