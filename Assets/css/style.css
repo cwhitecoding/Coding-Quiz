@@ -3,11 +3,41 @@
 }
 
 body {
-    
+    margin: 5%;
 }
 
 
 h1 {
     font-size: 200%;
+    text-align: center;
+}
+
+#startButton {
+    text-align: center;
+}
+
+.start{
+    text-align: center;
+}
+
+.hide{
+    display: none;
+}
+
+.main{
+    margin-top: 15%;
+    text-align: center;
+}
+
+.question{
+    font-size: 150%;
+    padding-bottom: 3%;
+}
+
+#answers{
+    display: flex;
+    flex-direction: column;
+    padding-left: 37.5%;
+    width: 25%;
     text-align: center;
 }
